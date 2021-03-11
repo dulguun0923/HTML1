@@ -1,6 +1,6 @@
 /* header style */
-html { 
-  font-size: 62,5%;
+html {
+  font-size: 62, 5%;
   height: 100%;
 }
 body {
@@ -31,7 +31,6 @@ li {
 }
 ul.top_menu {
   float: right;
-
 }
 .top_menu li {
   float: left;
@@ -51,29 +50,29 @@ ul.top_menu {
   float: left;
   margin: 0;
 }
-.image_area{
+.image_area {
   width: 100%;
 }
-.wrapper{
+.wrapper {
   margin-top: 10px;
   padding-bottom: 100px;
 }
-.side_menu{
+.side_menu {
   width: 300px;
   float: left;
 }
-.side_menu li{
+.side_menu li {
   background-color: #f5b4b3;
   height: 6rem;
   margin-bottom: 10px;
 }
-.side_menu li:hover{
+.side_menu li:hover {
   opacity: 0.6;
 }
-.banner a:hover{
+.banner a:hover {
   opacity: 0.6;
 }
-.side_menu li a{
+.side_menu li a {
   font-size: 2rem;
   color: #ffffff;
   text-decoration: none;
@@ -81,40 +80,40 @@ ul.top_menu {
   padding: 2rem;
 }
 
-.banner{
+.banner {
   margin-top: 20px;
 }
-.banner img{
+.banner img {
   width: 100%;
 }
 
-.content{
+.content {
   width: 660px;
   margin-left: 20px;
   float: left;
   font-size: 1.5rem;
 }
-.news{
+.news {
   height: 200px;
   background-color: #fce8e7;
   padding: 20px;
   overflow: scroll;
   line-height: 2;
 }
-.banner_content{
+.banner_content {
   margin-top: 10px;
   display: table;
 }
 .banner_content p {
   display: table-cell;
 }
-.banner_content p img{
+.banner_content p img {
   width: 100%;
 }
-.side_menu .point{
+.side_menu .point {
   background-color: #fcecec;
 }
-.side_menu .point a{
+.side_menu .point a {
   color: #4d4d4d;
 }
 /* Footer style */
@@ -125,9 +124,8 @@ ul.top_menu {
   bottom: 0;
   background-color: #4d4d4d;
   display: table;
-
 }
-.footer p{
+.footer p {
   font-size: 1rem;
   color: #ffffff;
   text-align: center;
